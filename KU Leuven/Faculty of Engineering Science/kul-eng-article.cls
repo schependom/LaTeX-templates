@@ -9,7 +9,7 @@
 % Faculteit Ingenieurswetenschappen Logo vectorised by Vincent Van Schependom.
 
 \NeedsTeXFormat{LaTeX2e}
-\ProvidesClass{ku-eng-article}[2025/04/29 Article class for KU Leuven Faculty Of Engineering Science]
+\ProvidesClass{kul-eng-article}[2025/04/29 Article class for KU Leuven Faculty Of Engineering Science]
 \providecommand{\Logo}{irLogo}
 \DeclareOption*{\PassOptionsToClass{\CurrentOption}{article}}
 \ProcessOptions\relax
